@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Descriptions vs Custom Instructions</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Project Descriptions vs Custom Instructions</h1>
+        <table>
+            <tr>
+                <th>Aspect</th>
+                <th>Project Description</th>
+                <th>Custom Instructions</th>
+            </tr>
+            <tr>
+                <td>Scope</td>
+                <td>Broad overview of the entire project</td>
+                <td>Specific to how you want to interact with the AI</td>
+            </tr>
+            <tr>
+                <td>Purpose</td>
+                <td>Sets context and goals</td>
+                <td>Guides AI behavior and output</td>
+            </tr>
+            <tr>
+                <td>Timeframe</td>
+                <td>Covers the entire project duration</td>
+                <td>Applies to all interactions, can be updated as needed</td>
+            </tr>
+            <tr>
+                <td>Audience</td>
+                <td>Useful for anyone involved in the project</td>
+                <td>Specifically for guiding the AI assistant</td>
+            </tr>
+            <tr>
+                <td>Content</td>
+                <td>Factual information about the project</td>
+                <td>Preferences and guidelines for AI interaction</td>
+            </tr>
+            <tr>
+                <td>Flexibility</td>
+                <td>Typically remains stable throughout the project</td>
+                <td>Can be easily adjusted based on evolving needs</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
